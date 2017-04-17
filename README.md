@@ -16,11 +16,12 @@ Sample Data
 
 Since you are saving the reviews in localStorage, we will need a JavaScript/JSON object that will reflect all the saved and reviewed items. Here is a sample object.
 
+```JavaScript
 {"reviews":[
   {"id":237428374, "name":"Timmies", "rating":4, "img":"path/and/filename/on/device.png"},
   {"id":123987944, "name":"Starbucks", "rating":4, "img":"path/and/filename/on/device.png"}
 ]}
- 
+ ```
 
 Home List page
 
